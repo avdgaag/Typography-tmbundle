@@ -4,6 +4,11 @@
 <dict>
 	<key>name</key>
 	<string>Typography</string>
+	<key>ordering</key>
+	<array>
+		<string>5C57BE5C-6421-4B25-BC35-67C7AD863169</string>
+		<string>529A6571-4836-4C02-AA60-A446D36B47C5</string>
+	</array>
 	<key>uuid</key>
 	<string>598D8587-B336-4280-995C-2B55320BA96A</string>
 </dict>
